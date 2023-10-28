@@ -1,3 +1,3 @@
 # Aptamer-Designer
 - Hello
-\gamma
+\{gamma}
